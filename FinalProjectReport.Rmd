@@ -345,7 +345,7 @@ Ploting a Spi animation of the graph per station.
 ```
 ![Alt Text](DecYearlySpi.gif)
 
-#Conlcusion:
+#Conclusion:
 
 As Expected, the winter months are more drier than the Summer months are this area is a summer rainfall area.  However there are areas that recorded exceptionally wet months in the winter season in some years. As seen in the Yearly SPI for June, there are periods when all the areas were exceptionally wet than normal.This however not conclusive that once in ten every the areas would have wet conditions during this month because of the period considered in the analysis(i.e. 1997 - 2014 is not long enough for such conclusion).
 
